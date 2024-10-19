@@ -3,10 +3,10 @@ from user import*
 newuser=None
 
 print("*"*170)
-print("            WELCOME TO FOODTRUCK UMAsakthi      ")
+print("            WELCOME TO FOODTRUCK      ")
 print("            food delivery app            ")
 print("*"*170)
-
+print("hi")
 
 while True:
     print("1.register")

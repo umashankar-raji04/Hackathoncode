@@ -3,7 +3,7 @@ from user import*
 newuser=None
 
 print("*"*170)
-print("            WELCOME TO FOODTRUCK US         ")
+print("            WELCOME TO FOODTRUCK UMA       ")
 print("            food delivery app            ")
 print("*"*170)
 
